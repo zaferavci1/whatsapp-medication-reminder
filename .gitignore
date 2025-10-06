@@ -1,0 +1,14 @@
+# Gizli yapılandırma dosyası
+medication_config.json
+
+# Python'un otomatik oluşturduğu cache klasörü
+__pycache__/
+
+# Sanal ortam klasörü
+twilio_env/
+
+# Log dosyaları
+*.log
+
+# Eski yedekler ve raporlar
+*.txt

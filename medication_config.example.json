@@ -1,0 +1,49 @@
+{
+"medication_schedules": [
+  {
+    "name": "Diamicron 60mg (Aç Karnına)",
+    "time": "10:15",
+    "message": "🌅 Günaydın canım annem! *Diamicron 60mg* ilacını alma zamanı geldi. Bu ilacı _aç karnına, kahvaltıdan önce_ alman gerekiyor. Şimdi al, sonra 30 dakika sonra kahvaltını yapabilirsin. Seni çok seviyorum! 💊❤️",
+    "medication": "Diamicron 60mg",
+    "instructions": "Aç karnına, kahvaltıdan önce",
+    "enabled": true
+  },
+  {
+    "name": "Dropia-MET 15mg (Sabah - Tok Karnına)",
+    "time": "11:45",
+    "message": "🍳 Kahvaltıdan sonra *Dropia-MET 15mg* ilacını alma zamanı canım annem! Bu ilacı _tok karnına_ alman gerekiyor. Kahvaltını yaptığın için şimdi tam zamanı. Unutma, akşam da bir tane daha alacaksın. 💊🥰",
+    "medication": "Dropia-MET 15mg",
+    "instructions": "Tok karnına, kahvaltıdan sonra",
+    "enabled": true
+  },
+  {
+    "name": "Öğle İlaçları (Tok Karnına)",
+    "time": "14:00",
+    "message": "🍽️ Öğle yemeğinden sonra ilaç zamanı canım annem! Şimdi 2 ilacını alman gerekiyor:\n\n💊 *Linatin 5mg*\n💊 *Jaglif 10mg*\n\nİkisini de _öğle yemeğinden sonra tok karnına_ al. Sağlığın için çok önemli! Seni seviyorum 💕",
+    "medication": "Linatin 5mg + Jaglif 10mg",
+    "instructions": "Tok karnına, öğle yemeğinden sonra",
+    "enabled": true
+  },
+  {
+    "name": "Dropia-MET 15mg (Akşam - Tok Karnına)",
+    "time": "20:00",
+    "message": "🌆 Akşam yemeğinden sonra *Dropia-MET 15mg (Akşam dozu)* zamanı canım annem! Bu ilacın ikinci dozunu _tok karnına_ alman gerekiyor. Akşam yemeğini yediğin için şimdi tam zamanı. Bu gece güzel rüyalar görmen için sağlığın önemli! 💊🌙❤️",
+    "medication": "Dropia-MET 15mg (Akşam dozu)",
+    "instructions": "Tok karnına, akşam yemeğinden sonra",
+    "enabled": true
+  }
+],
+
+  "recipient_info": {
+    "name": "Anne",
+    "phone": "+905xxxxxxxxx"
+  },
+  "daily_routine": {
+    "wake_up": "10:00",
+    "breakfast": "11:00",
+    "lunch": "13:30",
+    "dinner": "19:30"
+  },
+  "timezone": "Europe/Istanbul",
+  "notes": "İlaç alma zamanları günlük rutine göre optimize edilmiştir. Aç karnına alınan ilaçlar yemeklerden önce, tok karnına alınanlar yemeklerden sonra alınmalıdır."
+}
