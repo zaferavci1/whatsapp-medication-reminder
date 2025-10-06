@@ -145,7 +145,7 @@ Bu komut `medication_config.json` dosyasını nano editörü ile açar.
   ],
   "recipient_info": {
     "name": "Anne",                 // ← İsmi değiştirebilirsiniz
-    "phone": "+905538826863"        // ← Telefon numarasını değiştirebilirsiniz
+    "phone": "+905xxxxxxxxx"        // ← Telefon numarasını değiştirebilirsiniz
   },
   "daily_routine": {
     "wake_up": "10:00",            // ← Uyanma saati
